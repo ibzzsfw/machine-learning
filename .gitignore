@@ -185,4 +185,7 @@ poetry.toml
 
 */.DS_Store
 .DS_Store
-.pdf
+*.pdf
+test.py
+*.html
+min-distance-classifier/raw_data.csv
