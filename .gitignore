@@ -189,3 +189,4 @@ poetry.toml
 test.py
 *.html
 min-distance-classifier/raw_data.csv
+*.html
