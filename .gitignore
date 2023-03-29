@@ -190,3 +190,5 @@ test.py
 *.html
 min-distance-classifier/raw_data.csv
 *.html
+
+MLPClassifier-for-MNIST/mnist_784.arff
