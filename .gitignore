@@ -192,3 +192,7 @@ min-distance-classifier/raw_data.csv
 *.html
 
 */mnist_784.arff
+
+eigenfaces/lfw_funneled
+eigenfaces/lfw-funneled.tgz
+CNN/lfw_funneled
